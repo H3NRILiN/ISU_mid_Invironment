@@ -31,7 +31,7 @@ public class sgMove : MonoBehaviour {
 		//CC.Move (transform.up * -0.1f*Time.deltaTime);
 
 
-		Debug.Log (transform.eulerAngles.y);
+		//Debug.Log (transform.eulerAngles.y);
 
 
 		if (camstate.isMenuOn) 
